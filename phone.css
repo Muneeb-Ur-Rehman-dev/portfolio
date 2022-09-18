@@ -1,0 +1,7 @@
+.about img{
+    flex-direction: column;
+}
+
+.img-1 img{
+    display: none;
+}
